@@ -1,4 +1,4 @@
-# **Metodystatystyczne**
+# **Metody statystyczne**
 <br>
 <div style="text-align: right"><b>Przemysław Pawlik</b></div>
 <br>
